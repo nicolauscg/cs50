@@ -1,0 +1,12 @@
+1.  a header file in C
+2.  fixed-width integer types enhance portability of programs
+3.  BYTE is 8-bits, DWORD is 32-bits, LONG is 32-bits and WORD is 16-bits
+4.  0x4d42
+5.  bfSize is the size, in bytes, of the whole bitmap file, whereas biSize is the size
+6.  bitmap is top-down and it's origin is top-left corner
+7.  biBitCount
+8.  insufficient memory to allocate for pointer
+9.  because size of stuct is specified as unit size and a for loop is used to iterate through unit size
+10. 3
+11. changes the position of pointer by offset bytes from relative position (can be current position, start of file or end of file)
+12. current location of file pointer
